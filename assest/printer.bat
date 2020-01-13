@@ -1,0 +1,2 @@
+@echo off
+C:\gs\gs9.27\bin\gswin64c.exe -dPrinted -dBATCH -dNOPAUSE -dNOSAFER -q -dNumCopies=1 -sDEVICE=ljet4 -sOutputFile="%printer%\\CAJA01\CAJA01" "C:\wamp64\www\facturacionmym\assest\pdffe\20101759688_03_B001-00005494.pdf"
